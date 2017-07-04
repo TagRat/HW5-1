@@ -2,9 +2,9 @@
 <html>
 <!-- the head section -->
 <head>
-    <title>Myxxx Guitar Shop</title>
+    <title>My Guitar Shop</title>
     <link rel="stylesheet" type="text/css"
-          href="../main.css">
+          href="/~wt49/HW5-1/main.css">
 </head>
 
 <!-- the body section -->
