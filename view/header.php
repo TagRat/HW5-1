@@ -4,7 +4,7 @@
 <head>
     <title>My Guitar Shop</title>
     <link rel="stylesheet" type="text/css"
-          href="../HW5-1/main.css">
+          href="/afs/cad.njit.edu/u/w/t/wt49/public_html/HW5-1/main.css">
 </head>
 
 <!-- the body section -->
